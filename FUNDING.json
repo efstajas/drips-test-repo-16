@@ -2,6 +2,9 @@
   "drips": {
     "filecoin": {
       "ownedBy": "0x4e89bf4a01c39d64F27aD08B30e347DA5ED9025f"
+    },
+    "sepolia": {
+      "ownedBy": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
     }
   }
 }
